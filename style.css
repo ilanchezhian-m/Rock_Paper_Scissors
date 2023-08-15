@@ -1,0 +1,29 @@
+#gameDiv{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    border: 3px solid;
+    border-radius: 25px;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.choiceBtn{
+    line-height: 30px;
+    width: 150px;
+    background-color: rgb(12, 192, 224);
+    color: white;
+    font-weight: bold;
+    border-radius: 25px;
+    padding: 10px
+}
+
+#playerText{
+    color:rgb(255, 153, 51);
+    
+}
+#computerText{
+    color:rgb(0, 0, 128);
+}
+#resultText{
+    color: rgb(19, 136, 8);
+}
